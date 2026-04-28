@@ -1,6 +1,4 @@
-# Level 3 Upgrade: Student Management System - Web Application using Flask
-# This is a single-file web app suitable for GitHub portfolio projects
-# Features: Add, View, Update, Delete Students via Web Interface
+
 
 from flask import Flask, request, redirect, url_for, render_template_string
 import sqlite3
